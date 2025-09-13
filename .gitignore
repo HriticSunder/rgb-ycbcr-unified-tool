@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large outputs and temporary video frames
+video_output*/
+rebuild_*/
+*.avi
+*.mp4
+*.jpg
+*.png
