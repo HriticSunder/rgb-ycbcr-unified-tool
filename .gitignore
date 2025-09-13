@@ -9,3 +9,5 @@ rebuild_*/
 *.mp4
 *.jpg
 *.png
+# Keep demo files
+!sample_demo/**
